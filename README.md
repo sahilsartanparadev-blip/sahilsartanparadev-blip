@@ -1,91 +1,70 @@
 <h1 align="center">Hi 👋, I'm Sahil Sartanpara</h1>
+<h3 align="center">A passionate Flutter & Full Stack Developer from India 🇮🇳</h3>
 
-<h3 align="center">
-Flutter Developer | AI-Driven Problem Solver | Aspiring AI Generalist
-</h3>
-
----
-
-## 🚀 About Me
-
-* 💻 Junior Flutter Developer with 1+ year experience
-* 📱 Building scalable & high-performance mobile apps
-* 🤖 Solving complex problems using AI tools & automation
-* ⚡ Exploring next-gen AI development & agent-based systems
-
----
-
-## 🌐 Live Project
-
-* 🛒 **Nanavati Collection (E-commerce Website)**
-  🔗 https://www.nanavaticollection.in/
-
-<img src="https://via.placeholder.com/800x400.png?text=Nanavati+Collection" />
-
----
-
-## 🛠️ Tech Stack
-
-**📱 Mobile & Web:**
-Flutter, ReactJS, Node.js
-
-**🗄️ Database:**
-Firebase, MySQL, MongoDB
-
-**🤖 AI & Tools:**
-Cursor, Claude Code, Codex, n8n, Antigravity
-
----
-
-## 💬 Ask Me About
-
-Flutter, Dart, AI Tools, Automation, App Development
-
----
-
-## 📫 Contact Me
-
-* 📧 [sahilsartanpara.dev@gmail.com](mailto:sahilsartanpara.dev@gmail.com)
-
----
-
-## 🔗 Connect with me
+<img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINK" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <img src="https://komarev.com/ghpvc/?username=sahilsartanpara&label=Profile%20views&color=0e75b6&style=flat" alt="sahilsartanpara" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sahilsartanpara" alt="sahilsartanpara" />
+  </a>
+</p>
+
+---
+
+## 💡 Connect with me :
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sartanpara-sahil/">
+  <img src="https://img.shields.io/badge/-Sahil%20Sartanpara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sahilsartanapara.dev@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 🧰 Languages and Tools
+## 🧑 About Me :
 
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+- 🚀 Flutter Developer (Android + iOS + Web)
+- 💻 Full Stack Developer  
+- 🤖 Exploring AI tools like Cursor, Codex & Claude Code  
+- 🌱 Currently learning **Advanced Flutter & Backend Scaling**
+- 💬 Ask me about **Flutter, Dart, Firebase, Node.js**
+- ⚡ Fun fact: *I love building real-world apps*
+
+---
+
+## 🌐 Languages and Tools :
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio,js,nodejs,express,mongodb,mysql,sqlite,html,css,bootstrap,git,github,linux,aws,postman,notion" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🤖 AI Tools I Use :
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sahilsartanparadev-blip&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sahilsartanparadev-blip&theme=tokyonight" />
-</p>
+- 🧠 Cursor IDE  
+- ⚡ Codex (OpenAI)  
+- 🤖 Claude Code  
 
 ---
 
-⭐ Always learning | Always building | Always improving
+## 📊 GitHub Stats :
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilsartanpara&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilsartanpara&show_icons=true&locale=en" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsartanpara" />
+</p>
