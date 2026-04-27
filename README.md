@@ -50,20 +50,20 @@
 ## 🤖 AI Tools I Use :
 
 <p align="left">
-  
+
   <!-- Cursor -->
-  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-png/light/cursor.png" height="40" title="Cursor IDE" />
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="40" title="Cursor IDE" />
 
   <!-- OpenAI / Codex -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="40" title="OpenAI Codex" />
 
-  <!-- Claude -->
+  <!-- Claude (Anthropic) -->
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="40" title="Claude AI" />
 
-  <!-- Windsurf (Codeium) -->
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/codeium.png" height="40" title="Windsurf (Codeium)" />
+  <!-- Windsurf (Codeium official) -->
+  <img src="https://avatars.githubusercontent.com/u/80871850?s=200&v=4" height="40" title="Windsurf (Codeium)" />
 
-  <!-- Antigravity (fallback icon) -->
+  <!-- Antigravity (no official → clean fallback AI icon) -->
   <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" height="40" title="Antigravity AI" />
 
 </p>
