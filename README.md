@@ -46,24 +46,23 @@
 </p>
 
 ---
-
 ## 🤖 AI Tools I Use :
 
 <p align="left">
 
-  <!-- Cursor -->
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="40" title="Cursor IDE" />
+  <!-- Cursor (official style logo) -->
+  <img src="https://opttab.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcursor-color-light.0d3d1f5c.png&w=256&q=75" height="40" title="Cursor IDE" />
 
-  <!-- OpenAI / Codex -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="40" title="OpenAI Codex" />
+  <!-- OpenAI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="40" title="OpenAI / Codex" />
 
-  <!-- Claude (Anthropic) -->
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="40" title="Claude AI" />
+  <!-- Claude (Anthropic official) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Anthropic_logo.svg" height="40" title="Claude AI" />
 
-  <!-- Windsurf (Codeium official) -->
-  <img src="https://avatars.githubusercontent.com/u/80871850?s=200&v=4" height="40" title="Windsurf (Codeium)" />
+  <!-- Windsurf (Codeium official branding) -->
+  <img src="https://codeium.com/favicon.ico" height="40" title="Windsurf (Codeium)" />
 
-  <!-- Antigravity (no official → clean fallback AI icon) -->
+  <!-- Antigravity (closest real usage icon) -->
   <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" height="40" title="Antigravity AI" />
 
 </p>
